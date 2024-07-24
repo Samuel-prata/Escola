@@ -1,0 +1,22 @@
+.title-welcome {
+  height: 20vh;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar {
+  border-bottom: 2px solid blue;
+}
+
+.container-xl {
+  height: 50vh;
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-container {
+  display: flex;
+}
